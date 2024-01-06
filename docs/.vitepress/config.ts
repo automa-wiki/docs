@@ -437,7 +437,7 @@ const config = defineConfig({
       ]
     },
     editLink: {
-      pattern: 'https://github.com/automa-wiki/documentation/edit/main/docs/:path',
+      pattern: 'https://github.com/automa-wiki/docs/edit/main/docs/:path',
       text: '为此页提供修改建议'
     },
     logo: '/images/logo.png',
@@ -445,7 +445,7 @@ const config = defineConfig({
       text: '最后更新'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/automa-wiki/documentation' }
+      { icon: 'github', link: 'https://github.com/automa-wiki/docs' }
     ],
   },
 });
