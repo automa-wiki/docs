@@ -1,4 +1,4 @@
-# Automa
+# Automa中文文档
 <p>
   <img alt="Automa最新版本" src="https://img.shields.io/github/package-json/v/kholid060/automa" />
   <a href="https://twitter.com/AutomaApp">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-一个通过连接块来自动化您的浏览器的扩展。<br />
+Automa是一个浏览器自动化的扩展。<br />
 自动填写表单、执行重复任务、截屏或抓取网站数据——选择权在您。您甚至可以设置自动化执行的时间！
 
 ## 下载
