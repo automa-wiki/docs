@@ -5,7 +5,6 @@ cache
 
 .temp
 .cache
-.env
 .DS_Store
 .eslintcache
 .env.local
