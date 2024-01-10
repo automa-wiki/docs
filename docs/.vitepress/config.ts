@@ -47,7 +47,7 @@ const config = defineConfig({
         appId: process.env.SEARCH_APP_ID,
         indexName: process.env.SEARCH_INDEX_NAME,
         searchParameters: {
-          facetFilters: ['tags:cn']
+          //facetFilters: ['tags:cn']
         },
         placeholder: '搜索文档',
         translations: {
