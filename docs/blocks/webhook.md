@@ -46,7 +46,7 @@ title: HTTP 请求模块
   ```
   要获取`values`数组，请写`data.values`作为路径。要获取`values`数组的第一个值，请写`data.values.0`。
 
-  ::: 信息
+  ::: info
   如果你想获取所有的HTTP响应，如`status`、`statusText`、`data`等，请输入`$response`。
   :::
 
@@ -99,7 +99,7 @@ title: HTTP 请求模块
 	"longText": {{!variables.article}}
 }
 ```
-::: 信息
+::: info
 使用[JavaScript表达式](../workflow/expressions.md#javascript-expressions)时不需要这样做。
 :::
 
