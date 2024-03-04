@@ -18,7 +18,8 @@ const config = defineConfig({
   title: 'Automa中文文档',
   description: 'Automa浏览器扩展文档',
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/images/logo.png' }]
+      ['link', { rel: 'icon', type: 'image/x-icon', href: '/images/logo.png' }],
+      ['script', {async: "", crossorigin: 'anonymous', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4058130983777203'}]
   ],
   transformHtml: (_, id, { pageData }) => {
     if (!/[\\/]404\.html$/.test(id))
