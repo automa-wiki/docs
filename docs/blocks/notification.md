@@ -8,7 +8,7 @@
 
 第一次使用该模块时，请点击模块的编辑按钮，然后点击授权权限按钮。如果通知没有显示，请尝试重启您的浏览器。如果您使用的是Mac OS，您必须允许系统设置中使用浏览器显示通知。
 
-![mac系统设置](https://res.cloudinary.com/chat-story/image/upload/v1657010463/automa/unknown_cphb4u.png)
+![mac系统设置](/images/blocks/unknown_cphb4u.png)
 
 - **标题** <br>
   通知的标题。

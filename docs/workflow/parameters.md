@@ -17,10 +17,10 @@ title: 工作流参数
 
 您可以重命名参数、选择参数类型或输入默认值。
 
-![Add parameter](https://res.cloudinary.com/chat-story/image/upload/v1666079866/automa/chrome_1VtcrxMGH7_d7puxa.png)
+![Add parameter](/images/workflow/chrome_1VtcrxMGH7_d7puxa.png)
 
 当您运行工作流时，将出现一个弹出窗口，您可以在其中输入参数的值。
 
-![Input parameter](https://res.cloudinary.com/chat-story/image/upload/v1666080277/automa/chrome_7p2d3nvu9w_funwit.png)
+![Input parameter](/images/workflow/chrome_7p2d3nvu9w_funwit.png)
 
 这些参数将作为 [变量](./variables.md) 插入到工作流中，变量名称与参数名称相同。 例如，您可以访问参数的值 `keyword`，像这样 <code v-pre>{{ variables.keyword }}</code>

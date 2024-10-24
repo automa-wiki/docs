@@ -25,7 +25,7 @@ title: 切换标签页模块
 ### 标签页索引
 根据标签页的索引位置切换。例如，浏览器窗口中有 4 个标签页（Google, GitHub, Chess 和 Microsoft），
 
-![tabs](https://res.cloudinary.com/chat-story/image/upload/v1657083615/automa/tabs_ctqmdm.png)
+![tabs](/images/blocks/tabs_ctqmdm.png)
 
 要切换到 Google 标签页，可以输入 `0`，切换到 GitHub 标签页输入 `1`，依此类推。
 

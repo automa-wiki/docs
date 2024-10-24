@@ -43,7 +43,7 @@
 - **值** <br>
   \<select> 元素的值。要为选择框元素选择特定选项，你可以输入你想选择的选项的值。你可以使用 [Automa 元素选择器](../workflow/element-selector.md) 或 [Chrome DevTools](https://developer.chrome.com/docs/devtools/) 来找到选项值。
 
-  ![Chrome DevTools](https://res.cloudinary.com/chat-story/image/upload/v1642419001/automa/chrome_JQ9AV5L07X_fmvf5u.png)
+  ![Chrome DevTools](/images/blocks/chrome_JQ9AV5L07X_fmvf5u.png)
 
 ### 复选框 & 单选框
 

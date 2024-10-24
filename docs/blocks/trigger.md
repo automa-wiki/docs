@@ -24,7 +24,7 @@ title: 触发模块
 ### Cron 作业
 使用cron表达式来安排工作流执行。
 
-![Cron](https://user-images.githubusercontent.com/22908993/192127832-38b73b5f-1bd0-458c-8a1c-311d85e2446b.png)
+![Cron](/images/blocks/192127832-38b73b5f-1bd0-458c-8a1c-311d85e2446b.png)
 
 ### 上下文菜单
 通过上下文菜单（右键单击）执行工作流。通过上下文菜单执行工作流时，将注入几个变量：
@@ -67,7 +67,7 @@ window.dispatchEvent(new CustomEvent('automa:execute-workflow', {
 ```
 在`detail`属性中，你必须定义你想要执行的工作流的`id`或`publicId`。你可以在工作流设置中定义工作流的`publicId`。
 
-![Workflow public ID](https://res.cloudinary.com/chat-story/image/upload/v1660102318/automa/NVIDIA_Share_rWFjFA6ooQ_h3rtoq.png)
+![Workflow public ID](/images/blocks/NVIDIA_Share_rWFjFA6ooQ_h3rtoq.png)
 
 要将变量添加到该工作流，请在[CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent)属性内添加`data`属性。
 ```js

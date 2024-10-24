@@ -40,13 +40,13 @@ Automa使用Mustache模板，并通过以上的数据和函数进行扩展。
 ```
 {{variables.socials}}
 ```
-![HTTP Request block body](https://res.cloudinary.com/chat-story/image/upload/v1666171308/automa/chrome_FbRbTGuOXy_j8frph.png)
+![HTTP Request block body](/images/workflow/chrome_FbRbTGuOXy_j8frph.png)
 
 但是如果您想使用数组第一个元素上的 `url` 属性作为 [新标签页](../blocks/new-tab.md) URL内的值，该怎么办? 为此，可以使用以下表达式：
 ```
 {{variables.socials.0.url}}
 ```
-![New tab block URL](https://res.cloudinary.com/chat-story/image/upload/v1666232856/automa/chrome_8d0k1lZqUn_lxnycp.png)
+![New tab block URL](/images/workflow/chrome_8d0k1lZqUn_lxnycp.png)
 
 在该表达式中，`0` 表示数组的第一个元素，如果你想获取数组的第二个元素，将其替换为 `1`，`2` 表示第三个元素，`3` 表示第四个元素；依此类推。
 
@@ -336,7 +336,7 @@ $modulo(-4, 2) // -0
 
 Automa还支持在表达式中使用JavaScript，但是要写JavaScript，你必须在块的文本字段中的第一个值上添加`!!`字符。例如，从<code v-pre>The number is: {{variables.number}}</code> 到 <code v-pre>!!The number is: {{variables.number}}</code>。
 
-![JS表达式](https://res.cloudinary.com/chat-story/image/upload/v1666237164/automa/TV_-_2_2_r3emea.png)
+![JS表达式](/images/workflow/TV_-_2_2_r3emea.png)
 
 你可以像使用JavaScript函数一样使用内置函数。
 

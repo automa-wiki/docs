@@ -18,7 +18,7 @@ document.body.appendChild(script);
 
 如果您看到 `由于违反以下内容安全策略指令而拒绝执行内联脚本...` 错误，这意味着不能注入第三方代码。
 
-![CSP 错误](https://res.cloudinary.com/chat-story/image/upload/v1666334108/automa/chrome_hIZ8wpD5CC_dh5nfw.png)
+![CSP 错误](/images/reference/chrome_hIZ8wpD5CC_dh5nfw.png)
 
 ## 后台
 

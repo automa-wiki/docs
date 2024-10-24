@@ -6,7 +6,7 @@ title: 工作流设置
 
 可以为每个工作流设置自定义设置，位置在画布右上角有个**设置**图标。
 
-![workflow settings](https://res.cloudinary.com/chat-story/image/upload/v1666082112/automa/chrome_K7BmBkZ2gZ_o7k6fi.png)
+![workflow settings](/images/workflow/chrome_K7BmBkZ2gZ_o7k6fi.png)
 
 工作流设置共分为三个部分。
 
@@ -95,4 +95,4 @@ console.log(automaRefData('workflow', 'logs'))
 console.log(automaRefData('workflow', 'status'))
 ```
 
-![Workflow data](https://res.cloudinary.com/chat-story/image/upload/v1693204373/automa/Screenshot_2023-08-28_143223_swcorv.png)
+![Workflow data](/images/workflow/Screenshot_2023-08-28_143223_swcorv.png)

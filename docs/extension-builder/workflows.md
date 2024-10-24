@@ -14,7 +14,7 @@ title: "扩展：工作流"
 
 对于工作流 JSON 文件，您可以通过从 Automa 扩展[导出工作流](../workflow/overview.md#export-and-import-a-workflow)来获取。
 
-![添加工作流](https://res.cloudinary.com/chat-story/image/upload/v1670212865/automa/NVIDIA_Share_mqfTPWmLcJ_z0eczs.png)
+![添加工作流](/images/extension-builder/NVIDIA_Share_mqfTPWmLcJ_z0eczs.png)
 
 ::: tip 注意
 “来自 Automa 扩展”选项只能在您使用 Automa v1.24.0 或更新版本时使用。
@@ -23,17 +23,17 @@ title: "扩展：工作流"
 ## 更新工作流
 您可以通过点击您想要更新的工作流上的更新图标来更新工作流。之后，点击“来自 JSON 文件”或“来自 Automa 扩展”，并选择工作流。
 
-![更新工作流](https://res.cloudinary.com/chat-story/image/upload/v1670212991/automa/chrome_j3pk8zBstl_jorgmn.png)
+![更新工作流](/images/extension-builder/chrome_j3pk8zBstl_jorgmn.png)
 
 ## 删除工作流
 
 要删除一个工作流，您可以点击您想要删除的工作流上的删除按钮。
 
-![删除工作流](https://res.cloudinary.com/chat-story/image/upload/v1670213139/automa/chrome_cmge12BVxE_adzlrp.png)
+![删除工作流](/images/extension-builder/chrome_cmge12BVxE_adzlrp.png)
 
 如果您想要删除多个工作流，点击工作流旁边的复选框，然后点击“删除所选”按钮。
 
-![删除多个工作流](https://res.cloudinary.com/chat-story/image/upload/v1670213135/automa/NVIDIA_Share_dUepZN5bIB_egirro.png)
+![删除多个工作流](/images/extension-builder/NVIDIA_Share_dUepZN5bIB_egirro.png)
 
 ## 隐藏
 当您在工作流上启用隐藏复选框时，用户安装扩展后，该工作流在扩展中将不可见。这意味着用户无法手动运行工作流（通过在扩展上点击运行按钮）。

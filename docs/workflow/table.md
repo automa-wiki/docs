@@ -14,12 +14,12 @@ title: 表
 
 您可以选择四种数据类型 `Text`、`Number`、`Boolean`、`Array` 和 `Any`。
 
-![Workflow table](https://res.cloudinary.com/chat-story/image/upload/v1666068922/automa/chrome_e9ZIOvxldR_pbauzp.png)
+![Workflow table](/images/workflow/chrome_e9ZIOvxldR_pbauzp.png)
 
 ## 插入数据
 您可以用于从网站提取数据的模块（例如“[获取文本](../blocks/get-text.md)”模块和“[属性值](../blocks/attribute-value.md)”模块）将数据插入到表中。要使用该块插入数据，请单击编辑按钮，启用“插入到表”选项，然后选择其中一列。
 
-![Select column](https://res.cloudinary.com/chat-story/image/upload/v1666076448/automa/chrome_05KtZ48UEI_oyrlmp.png)
+![Select column](/images/workflow/chrome_05KtZ48UEI_oyrlmp.png)
 
 每次将数据插入表中时，数据都会被追加到列的末尾行。例如，当您用这样的数据填充表时。
 

@@ -26,4 +26,4 @@ title: 新窗口模块
 
 您可以通过访问 `chrome://extensions` => 寻找 Automa => 向下滚动来找到这个选项
 
-![在隐身模式下允许](https://res.cloudinary.com/chat-story/image/upload/v1642331154/automa/chrome_OXTZ3YmUTg_x8cq9g.png)
+![在隐身模式下允许](/images/blocks/chrome_OXTZ3YmUTg_x8cq9g.png)

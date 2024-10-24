@@ -41,7 +41,7 @@
   ```
   并有一个像这样的数据映射。
 
-  ![数据映射](https://res.cloudinary.com/chat-story/image/upload/v1657086347/automa/Screenshot_2022-07-06_134530_pyuvbm.png)
+  ![数据映射](/images/blocks/Screenshot_2022-07-06_134530_pyuvbm.png)
 
   数据将转换为
   ```json

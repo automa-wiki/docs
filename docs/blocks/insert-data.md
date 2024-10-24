@@ -22,7 +22,7 @@ title: 插入数据模块
 	- `https://example.com/files/document.pdf`
 	- `https://example.com/words.txt`
 
-![导入文件内容](https://res.cloudinary.com/chat-story/image/upload/v1662970548/automa/insner_2_mrslmt.png)
+![导入文件内容](/images/blocks/insner_2_mrslmt.png)
 
 ## 插入多个表行
 要将多个表行插入到列中，请使用双竖线 (`||`) 分隔每个值。例如：
@@ -30,4 +30,4 @@ title: 插入数据模块
 ```
 值 1 || 值 2 || 值 3
 ```
-![多行](https://res.cloudinary.com/chat-story/image/upload/v1693202468/automa/fieqmvqf5kb5seudggp4.png)
+![多行](/images/blocks/fieqmvqf5kb5seudggp4.png)

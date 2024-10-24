@@ -14,4 +14,4 @@ title: 全局数据
 ```
 并使用 [表达式](./expressions.md) 来调用全局数据。例如，<code v-pre>{{globalData.url}}</code>
 
-![URL Input](https://res.cloudinary.com/chat-story/image/upload/v1642160825/automa/chrome_d3PsYXgOKK_weyqwy.png)
+![URL Input](/images/workflow/chrome_d3PsYXgOKK_weyqwy.png)

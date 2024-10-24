@@ -11,7 +11,7 @@ Javascript代码执行超时，默认为20000毫秒（20秒）。如果达到超
 ## 每个新标签页都执行
 每次Automa创建新标签页或切换标签页时，都会执行Javascript代码。启用此选项后，Javascript模块不再需要一个活动标签页即可工作，并且内置函数如`automaRefData`、`automaNextBlock`等将不可用。例如
 
-![每个新标签页都执行](https://res.cloudinary.com/chat-story/image/upload/v1651031286/automa/chrome_b0wdnqRYv1_vknvhm.png)
+![每个新标签页都执行](/images/blocks/chrome_b0wdnqRYv1_vknvhm.png)
 
 ## 执行上下文
 参考: [Javascript执行上下文](../reference/javascript-execution-context.md)
@@ -47,7 +47,7 @@ automaNextBlock([{ title: 'Foo', count: 300 }, { title: 'Bar', count: 200 }])
 // 继续执行到特定模块
 automaNextBlock({ title: 'Hello' }, { nextBlockId: '4dxcxa3' })
 ```
-![表](https://res.cloudinary.com/chat-story/image/upload/v1642474574/automa/chrome_7ehs03LPjU_i0ivn2.png)
+![表](/images/blocks/chrome_7ehs03LPjU_i0ivn2.png)
 
 ### `automaSetVariable(name, value)`
 设置工作流变量的值。

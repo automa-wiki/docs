@@ -9,4 +9,4 @@ title: 循环断点
 ## 停止循环
 它会停止对应您输入的循环标识的循环，并继续执行至下一个模块。
 
-![停止循环](https://res.cloudinary.com/chat-story/image/upload/v1666324174/automa/chrome_Uwmb1sgeiJ_sukqfu.png)
+![停止循环](/images/blocks/chrome_Uwmb1sgeiJ_sukqfu.png)

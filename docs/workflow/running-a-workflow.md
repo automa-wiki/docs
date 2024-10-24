@@ -12,4 +12,4 @@ title: 运行工作流
 
 或者你可以在网页里通过快捷键 <kbd>Ctrl/⌘+Shift+E</kbd> 来打开快捷面板选择您的工作流。
 
-![Automa shortcut](https://res.cloudinary.com/chat-story/image/upload/v1666341308/automa/chrome_uLX3tDY65e_rlecxl.png)
+![Automa shortcut](/images/workflow/chrome_uLX3tDY65e_rlecxl.png)

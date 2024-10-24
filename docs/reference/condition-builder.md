@@ -14,7 +14,7 @@ title: 条件生成器
 #### 值前缀
 这个前缀是用来指示值的数据类型的约定。它可以用来将一个值转换为对应的数据类型。例如，"string::"前缀可用于将值转换为字符串类型，"number::"可用于将值转换为数字类型。
 
-![前缀示例](https://res.cloudinary.com/chat-story/image/upload/v1673597971/automa/NVIDIA_Share_eyqm3SIAKx_kiot08.png)
+![前缀示例](/images/reference/NVIDIA_Share_eyqm3SIAKx_kiot08.png)
 
 可用前缀：
 - `string::`：将值转换为字符串。

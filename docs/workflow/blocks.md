@@ -26,7 +26,7 @@ Automa 中有六类模块:
 
 您还可以右键单击该块以显示更多菜单。
 
-![Block menu](https://res.cloudinary.com/chat-story/image/upload/v1666161166/automa/block-menu_lq1vig.gif)
+![Block menu](/images/workflow/block-menu_lq1vig.gif)
 
 ### 设置
 模块设置允许您配置模块执行、错误处理和外观。
@@ -46,32 +46,32 @@ Automa 中有六类模块:
   - **动画**: 为连接增加动画
   - **线段颜色**: 更改连接线颜色
 
-![Block settings](https://res.cloudinary.com/chat-story/image/upload/v1666162997/automa/block-settings_ppatjo.gif)
+![Block settings](/images/workflow/block-settings_ppatjo.gif)
 
 ## 选择块
 要选择块， 你可以按住 `ctrl` 键并点击模块或者按住 `shift` 键拖动鼠标。
 
-![Selecting blocks](https://res.cloudinary.com/chat-story/image/upload/v1666163436/automa/selecting-blocks_vecdy3.gif)
+![Selecting blocks](/images/workflow/selecting-blocks_vecdy3.gif)
 
 ## 连接块
 有几种方法可以将一个块连接到另一个块：
 
 - **手动**: 将模块输出口拖动到另外一个模块的输入口中。
 ::: details 例子
-![connect block manually](https://res.cloudinary.com/chat-story/image/upload/v1662968420/automa/connect-block_advdve.gif)
+![connect block manually](/images/workflow/connect-block_advdve.gif)
 :::
 
 - **将模块放入另外一个模块的输出口**: 将模块拖放到另外一个模块的输出口中。 
 ::: details 例子
-![drop to output example](https://res.cloudinary.com/chat-story/image/upload/v1642573402/automa/connect-block-ouput_nn5nx7.gif)
+![drop to output example](/images/workflow/connect-block-ouput_nn5nx7.gif)
 :::
 
 - **单击模块的输出口和输入口** <br>
 ::: details 例子
-![Clicking the block output and input example](https://res.cloudinary.com/chat-story/image/upload/v1662968420/automa/connect-block2_slxrpv.gif)
+![Clicking the block output and input example](/images/workflow/connect-block2_slxrpv.gif)
 :::
 
 - **将一个模块拖放到另一个模块中** <br>
 ::: details 例子
-![drop to another block example](https://res.cloudinary.com/chat-story/image/upload/v1656734189/automa/drop_in_a_block_zzrtaw.gif)
+![drop to another block example](/images/workflow/drop_in_a_block_zzrtaw.gif)
 :::

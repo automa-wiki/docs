@@ -31,6 +31,6 @@ title: 属性值模块
 
 要查找属性名称，您可以使用[Automa 元素选择器](../workflow/element-selector.md#generating-selector)。首先需要选择一个元素，然后您可以在它下面找到该元素所拥有的属性列表。
 
-![Attributes](https://res.cloudinary.com/chat-story/image/upload/v1666253887/automa/chrome_yUjnbDYYP7_hm4bwq.png)
+![Attributes](/images/blocks/chrome_yUjnbDYYP7_hm4bwq.png)
 
 <!--@include: ../parts/blocks-interaction-note.md-->

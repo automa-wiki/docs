@@ -8,7 +8,7 @@ title: 常见错误
 ## 找不到带有“{selector}”选择器的元素 {#element-not-found}
 此错误发生是因为元素选择器与页面上的任何元素都不匹配。针对这种情况，你可以使用“元素存在”（Element Exist）模块检查页面上是否存在元素，或者启用选择器选项中的“等待选择器”（Wait for selector）功能。
 
-![等待选择器选项](https://res.cloudinary.com/chat-story/image/upload/v1663575029/automa/chrome_xzwsxBADvq_f5povx.png)
+![等待选择器选项](/images/reference/chrome_xzwsxBADvq_f5povx.png)
 
 ## 找不到带有“{pattern}”模式的标签页 {#no-match-tab}
 你输入的匹配模式与任何标签页的URLs都不匹配。请查看如何在 [MDN页面](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns#examples)上编写匹配模式的方法。
@@ -23,7 +23,7 @@ title: 常见错误
 
 为解决此问题，你可以在尝试使用的模块前使用[新标签页模块](/blocks/new-tab.md)或[活动标签页模块](/blocks/active-tab.md)。
 
-![无标签页](https://res.cloudinary.com/chat-story/image/upload/v1663569336/automa/chrome_D5csgMXyoj_okm03f.png)
+![无标签页](/images/reference/chrome_D5csgMXyoj_okm03f.png)
 
 ## “{url}”是无效的URL {#invalid-active-tab}
 当你输入的值不是有效的URL时将出现此错误。有效的URL必须以 `http` 或 `https` 开头，例如 “https://example.com”。

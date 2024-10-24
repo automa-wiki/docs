@@ -13,7 +13,7 @@ title: 包
 ### 从工作流编辑器
 要从工作流编辑器创建包，请先选择模块。您可以通过按住Shift并拖动鼠标来选择您要选择的模块。右键单击并选择“设为包（Set as package）”菜单。
 
-![创建包](https://res.cloudinary.com/chat-story/image/upload/v1662340152/automa/package-workflow_i2hme2.gif)
+![创建包](/images/reference/package-workflow_i2hme2.gif)
 
 ### 从包页面
 您只需导航至包页面，点击“新建包（New package）”按钮，并输入包名称和描述。
@@ -25,16 +25,16 @@ title: 包
 
 当您将包设置为模块时，它将在工作流内部使用时被视为一个模块。要启用此选项，编辑包时转到设置选项卡。
 
-![包作为模块](https://res.cloudinary.com/chat-story/image/upload/v1662341835/automa/package-as-block_xbi00q.gif)
+![包作为模块](/images/reference/package-as-block_xbi00q.gif)
 
 #### 模块输入与输出
 
 为了定义模块的输入和输出，您只需在包里右键单击一个模块的输入或输出，并选择是否将其设置为包模块的输入或输出。
 
-![包模块的输入输出](https://res.cloudinary.com/chat-story/image/upload/v1662342419/automa/package-IO_lzpfoz.gif)
+![包模块的输入输出](/images/reference/package-IO_lzpfoz.gif)
 
 在工作流中使用包模块时，您将看到包模块的输入和输出。
 
-![具有输入输出的包模块](https://res.cloudinary.com/chat-story/image/upload/v1662342600/automa/chrome_emrfNdNVz0_jgecef.png)
+![具有输入输出的包模块](/images/reference/chrome_emrfNdNVz0_jgecef.png)
 
 当您将一个模块连接到包模块的某个输入时，Automa将从您在包中设置为输入的模块开始执行。

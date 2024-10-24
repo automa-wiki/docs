@@ -8,11 +8,11 @@ title: Storage
 ## 表
 要将一个[表](../workflow/table.md)添加到存储中，点击“添加表”按钮，然后定义表的名称和列。
 
-![添加存储表](https://res.cloudinary.com/chat-story/image/upload/v1656735869/automa/NVIDIA_Share_ZYqbANNey2_cvmvt1.png)
+![添加存储表](/images/reference/NVIDIA_Share_ZYqbANNey2_cvmvt1.png)
 
 要在工作流中使用这个表，打开工作流表并点击“连接到存储表”按钮。
 
-![连接存储表](https://res.cloudinary.com/chat-story/image/upload/v1656736642/automa/NVIDIA_Share_qWlIzKSYIx_cvxe6w.png)
+![连接存储表](/images/reference/NVIDIA_Share_qWlIzKSYIx_cvxe6w.png)
 
 ::: tip 注意
 了解更多关于表的信息，请访问[表页面](../workflow/table.md)
@@ -21,11 +21,11 @@ title: Storage
 ## 变量
 你可以从存储的变量页面添加变量，也可以从工作流中添加。每次你想要赋值或读取变量的值时，变量名必须以两个美元符号(`$$`)开头。这是为了区分存储变量和工作流变量。例如，从一个块中添加或更新一个变量。
 
-![赋值存储变量](https://res.cloudinary.com/chat-story/image/upload/v1656738020/automa/NVIDIA_Share_lGV2S0XYJE_y6qs8h.png)
+![赋值存储变量](/images/reference/NVIDIA_Share_lGV2S0XYJE_y6qs8h.png)
 
 在一个块中访问变量。
 
-![访问存储变量](https://res.cloudinary.com/chat-story/image/upload/v1656738064/automa/NVIDIA_Share_XTiF5TkhOX_wxfkgd.png)
+![访问存储变量](/images/reference/NVIDIA_Share_XTiF5TkhOX_wxfkgd.png)
 
 ::: tip 注意
 了解更多关于变量的信息，请访问[变量页面](../workflow/variables.md)

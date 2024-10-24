@@ -14,7 +14,7 @@ title: 谷歌表格模块
 
 当你将表格设置为公开时，Automa只有读取权限。<br>如果你打算更新表格的单元格值，你需要将表格与Automa服务账号共享。为此，请打开你想共享的表格，点击右上角的共享按钮，并输入`service@automa2.iam.gserviceaccount.com`。
 
-![服务账户](https://res.cloudinary.com/chat-story/image/upload/v1642067522/automa/chrome_9iHTFjxWEn_lzavjy.png)
+![服务账户](/images/blocks/chrome_9iHTFjxWEn_lzavjy.png)
 
 ## 表格ID
 表格ID包含字母、数字、连字符或下划线。你可以在谷歌表格的URL中找到它。
@@ -23,7 +23,7 @@ title: 谷歌表格模块
 	https://docs.google.com/spreadsheets/d/<mark>10FGdgjWhkFeJ8m-M5WC0zDIMnSqRFuctuZ1CkOr38mY</mark>/edit
 </code>
 
-![表格ID](https://res.cloudinary.com/chat-story/image/upload/v1641768594/automa/chrome_OuX2wQzOe4_lyd8tv.png)
+![表格ID](/images/blocks/chrome_OuX2wQzOe4_lyd8tv.png)
 
 ## 范围
 你想获取或更新的单元格值的范围，可以使用[A1表示法](https://developers.google.com/sheets/api/guides/concepts#expandable-1)定义单元格范围，如`Sheet1!A1:B2`，或[R1C1表示法](https://developers.google.com/sheets/api/guides/concepts#expandable-2)，如`Sheet1!R1C1:R2C2`。

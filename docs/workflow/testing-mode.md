@@ -11,4 +11,4 @@ title: 测试模式
 
 当工作流处于测试模式时，您将在工作流块上看到 <v-remixicon name="riRecordCircleLine" /> 图标。它用于将该块设置为断点。断点设计用于指示工作流执行将暂停的位置，从而允许您检查工作流及其变量的状态。
 
-![Breakpoint](https://res.cloudinary.com/chat-story/image/upload/v1676529325/automa/breakpoint_njdfvg.gif)
+![Breakpoint](/images/workflow/breakpoint_njdfvg.gif)

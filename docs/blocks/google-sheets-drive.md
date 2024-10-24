@@ -12,7 +12,7 @@ Google Sheets（GDrive）模块的作用与[Google Sheets模块](./google-sheets
 
 要在Google Sheets中获取、更新或清除值，您需要点击表选择旁的"连接"按钮来连接一个电子表格。然后，选择电子表格文件。
 
-![连接电子表格](https://res.cloudinary.com/chat-story/image/upload/v1674112697/automa/Frame_3_2_h8miwx.png)
+![连接电子表格](/images/blocks/Frame_3_2_h8miwx.png)
 
 ## 创建电子表格
 您可以使用它来创建一个电子表格。

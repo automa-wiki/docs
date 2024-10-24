@@ -4,7 +4,7 @@ title: 循环数据模块
 
 # 循环数据模块
 
-![循环示例](https://res.cloudinary.com/chat-story/image/upload/v1642310619/automa/loop_bd2por.gif)
+![循环示例](/images/blocks/loop_bd2por.gif)
 
 当您想要通过数据进行循环时，您可以使用这个模块。
 
@@ -20,7 +20,7 @@ title: 循环数据模块
 
 当你选择`elements`选项时，Automa将返回一个选择器数组，这些选择器匹配你输入的`selector`。你可以像下面这样使用循环数据模块。
 
-![循环元素](https://res.cloudinary.com/chat-story/image/upload/v1657078995/automa/Loop_elements_a4btqz.png)
+![循环元素](/images/blocks/Loop_elements_a4btqz.png)
 
 ## 循环ID
 标识循环的ID。当您想在[表达式](../workflow/expressions.md)中访问循环数据或使用[循环断点](./loop-breakpoint.md)模块时，使用此ID。

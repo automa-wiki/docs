@@ -22,7 +22,7 @@ title: 元素选择器
 
 例如，当您有这样的工作流时
 
-![Workflow example](https://res.cloudinary.com/chat-story/image/upload/v1642405439/automa/B2cPsIplxO_m06lfr.png)
+![Workflow example](/images/workflow/B2cPsIplxO_m06lfr.png)
 
 使用 [获取文本模块](/blocks/get-text.md) 以 `.text` 作为选择节点。
 
@@ -54,11 +54,11 @@ title: 元素选择器
 
 在Automa面板，点击侧边栏的 <v-remixicon name="riFocus3Line" /> 按钮，Automa 会将元素选择器注入到当前页面中。你可以单击或按下 `Space` 键选择元素，它将自动为所选元素生成一个选择器。
 
-![Element picker](https://res.cloudinary.com/chat-story/image/upload/v1666151274/automa/chrome_Kd5yzW80tf_sq2oxp.png)
+![Element picker](/images/workflow/chrome_Kd5yzW80tf_sq2oxp.png)
 
 在编辑模块时你可以看到 "选择一个元素" 按钮，当点击它时，它会将元素选择器注入到当前网页，选择一个元素，然后点击元素选择器中的“选择元素”按钮。
 
-![Select an element button](https://res.cloudinary.com/chat-story/image/upload/v1666151714/automa/chrome_xQ16a4tU8v_etyuxh.png)
+![Select an element button](/images/workflow/chrome_xQ16a4tU8v_etyuxh.png)
 
 ## 自定义选择器语法
 除了支持标准的 [CSS选择器](https://www.w3.org/TR/selectors-4/) 和XPath表达式外，Automa 还支持非标准语法：

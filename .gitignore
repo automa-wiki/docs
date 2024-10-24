@@ -7,6 +7,7 @@ cache
 .cache
 .DS_Store
 .eslintcache
+.env
 .env.local
 .env.development.local
 .env.test.local

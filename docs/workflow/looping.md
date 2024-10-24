@@ -16,13 +16,13 @@ title: 循环
 
 当使用 [循环数据](../blocks/log-data.md) 或 [循环元素](../blocks/loop-elements.md) 时，工作流中必须包含 [循环断点](../blocks/loop-breakpoint.md)。循环断点用于告诉工作流循环的范围在哪里。在循环断点中，您还必须输入循环块的循环ID。
 
-![带有断点的循环](https://res.cloudinary.com/chat-story/image/upload/v1666320965/automa/chrome_7wEPnPfNRQ_e1ee2l.png)
+![带有断点的循环](/images/workflow/chrome_7wEPnPfNRQ_e1ee2l.png)
 
 上面的工作流将根据项目的数量重复执行表单和获取文本模块。在循环所有项目之后，工作流将继续执行导出数据模块。
 
 如果不使用循环断点模块来定义循环范围，则循环将不起作用。
 
-![不带断点的循环](https://res.cloudinary.com/chat-story/image/upload/v1666320717/automa/chrome_csX5PLkZBq_h5hu0k.png)
+![不带断点的循环](/images/workflow/chrome_csX5PLkZBq_h5hu0k.png)
 
 上面的工作流将执行表单和获取文本模块一次，然后继续执行导出数据模块。
 
@@ -30,7 +30,7 @@ title: 循环
 
 您可以使用 [表达式](./expressions.md) 在循环范围内访问当前循环迭代的数据。例如，<code v-pre>{{loopData.loopId}}</code>；将 `loopId` 替换为您在循环数据或循环元素模块中输入的循环ID。
 
-![访问循环项](https://res.cloudinary.com/chat-story/image/upload/v1666321501/automa/chrome_Z1IwOcaATY_gxfn6k.png)
+![访问循环项](/images/workflow/chrome_Z1IwOcaATY_gxfn6k.png)
 
 表达式 <code v-pre>{{loopData.loopId}}</code> 将返回：
 ```json
@@ -45,6 +45,6 @@ title: 循环
 
 使用 [重复任务](../blocks/repeat-task.md) 是执行循环的最简单方式。您只需要定义重复执行操作的次数以及从何处开始重复执行。
 
-![重复任务](https://res.cloudinary.com/chat-story/image/upload/v1666322277/automa/chrome_LWjlxa5ZMT_t2jrr2.png)
+![重复任务](/images/workflow/chrome_LWjlxa5ZMT_t2jrr2.png)
 
 上述工作流将从点击元素模块开始重复执行，执行三次后，工作流将继续执行新标签页模块。
