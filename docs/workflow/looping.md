@@ -39,7 +39,7 @@ title: 循环
   "$index": 1
 }
 ```
-因此，如果要访问循环的索引，可以使用 [表达式](./expressions.md) 类似 <code v-pre>{{loopData.loopId.$index}}</code>；要获取循环值，您无需编写 `data` 属性，例如 <code v-pre>{{loopId.loopId.data}}</code>；Automa 将自动将其分配给表达式。但是，如果使用 [JavaScript 表达式](./expressions.md#javascript-expressions)，您必须包括 `data` 属性，例如 <code v-pre>!!{{loopData.loopId.data}}</code>
+因此，如果要访问循环的索引，可以使用 [表达式](./expressions.md) 类似 <code v-pre>{{loopData.loopId.$index}}</code>；要获取循环值，您无需编写 `data` 属性，例如 <code v-pre>{{loopData.loopId.data}}</code>；Automa 将自动将其分配给表达式。但是，如果使用 [JavaScript 表达式](./expressions.md#javascript-expressions)，您必须包括 `data` 属性，例如 <code v-pre>!!{{loopData.loopId.data}}</code>
 
 ## 使用重复任务模块
 
