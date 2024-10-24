@@ -91,9 +91,9 @@ window.dispatchEvent(new CustomEvent('automa:execute-workflow', {
 
 ## 通过URL触发
 从版本v1.28.26开始，您将能够通过URL执行Automa工作流程。要执行此操作，您只需在浏览器中创建一个新标签，并输入以下URL：
-`chrome-chrome-extension://infppggnoaenmfagbfknfkancpbljcca/execute.html#/workfloId`，将 `workflowId` 替换为您想要执行的工作流的ID。
+`chrome-extension://infppggnoaenmfagbfknfkancpbljcca/execute.html#/workfloId`，将 `workflowId` 替换为您想要执行的工作流的ID。
 
-您还可以通过在URL中添加查询来将变量传递给工作流。例如：`chrome-chrome-extension://infppggnoaenmfagbfknfkancpbljcca/execute.html#/workfloId?variableA=value&variableB=10`
+您还可以通过在URL中添加查询来将变量传递给工作流。例如：`chrome-extension://infppggnoaenmfagbfknfkancpbljcca/execute.html#/workflowId?variableA=value&variableB=10`
 
 ## 参数
 参考：[工作流参数](../workflow/parameters.md)
