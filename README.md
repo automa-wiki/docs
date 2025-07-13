@@ -34,7 +34,8 @@ Automa是一个浏览器自动化的扩展。<br />
 浏览中文文档。[前往文档 &#187;](https://automa.wiki)
 
 ## 交流
-🐧QQ群：[383273995](https://qm.qq.com/cgi-bin/qm/qr?k=AtTYwLThqpnobm84bglsRCo5giFY7sLY&jump_from=webapi&authKey=NBa4J045efb4cF1D7o9JlCCTepkDjrodi1nQ30JiKPQoFrgc4lOETGHIia3S4ucO)
+🐧QQ群1(爆满)：[949765697](https://qm.qq.com/cgi-bin/qm/qr?k=laiqREd2t3zTsT5iOrIL5Q9jdJo2thzW&jump_from=webapi&authKey=/Tjw4D6QjfdQEQ6Fwllt0K3DJelWp2DSffYQBs4TqWYkLtcLGxiSF2SV4OFdNeOG)
+🐧QQ群2(空闲)：[383273995](https://qm.qq.com/cgi-bin/qm/qr?k=AtTYwLThqpnobm84bglsRCo5giFY7sLY&jump_from=webapi&authKey=NBa4J045efb4cF1D7o9JlCCTepkDjrodi1nQ30JiKPQoFrgc4lOETGHIia3S4ucO)
 
 ✈️Telegram: [@AutomaDev](https://t.me/AutomaDev)
 ## 捐赠
